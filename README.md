@@ -1,15 +1,18 @@
 # meu_pacote_univesp
 
 Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação III, Turma DRP02.
+<br><br>
 
 ## Descrição
 
 O projeto "meu_pacote_univesp" foi desenvolvido como parte do Projeto Integrador em Computação III na UNIVESP. Ele visa o desenvolvimento de ferramenta em Framework WEB que possibilite o controle de recebimento e coleta de objetos em condomínios, garantindo a rastreabilidade e a segurança deste processo.
+<br><br>
 
 ## Disciplina
 
 - **Nome**: Projeto Integrador em Computação III
 - **Turma**: DRP02 - Projeto Integrador em Computação III
+<br><br>
 
 ## Participantes
 
