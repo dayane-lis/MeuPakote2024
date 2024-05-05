@@ -1,6 +1,6 @@
 # meu_pacote_univesp
 
-Projeto desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação III, Turma DRP02.
+Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação III, Turma DRP02.
 
 ## Descrição
 
